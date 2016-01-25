@@ -1,7 +1,7 @@
 name: Tompang
 favicon: null
-layout_spectrum: 0.5885965428315103
-typography_spectrum: 0.5984977930784225
+layout_spectrum: 1
+typography_spectrum: 0.13051
 cta:
   domain: null
   bucket: null
